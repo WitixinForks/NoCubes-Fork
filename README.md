@@ -1,3 +1,10 @@
+A fork of [CosmicDan-Minecraft/NoCubes](https://github.com/CosmicDan-Minecraft/NoCubes) so that any people looking at it will see the fork, read this readme and see that...
+# [NoCubes is currently under development by me. Click this to be taken to the new version (for 1.12.2+)](https://github.com/Cadiboo/NoCubes)
+
+^^^ Go check it out!
+
+### Original README:
+
 # NoCubes mod
 Coremod that creates a cosmetic-only curved terrain layout in Minecraft. Original mod by Click_Me, this repo is reverse engineered under his permission (and modified with removed Mojang code where possible).
 
