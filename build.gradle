@@ -8,7 +8,7 @@ buildscript {
         mavenCentral()
         maven {
             name = "forge"
-            url = "http://maven.minecraftforge.net"
+            url = "https://maven.minecraftforge.net/"
         }
         maven {
             name = "sonatype"
@@ -21,6 +21,8 @@ buildscript {
 }
 
 apply plugin: 'forge'
+apply plugin: 'java'
+
 group = "com.cosmicdan.nocubes"
 
 ext.configFile = file "build.properties"
